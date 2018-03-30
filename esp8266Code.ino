@@ -22,7 +22,7 @@ void setup()
   Serial.begin(9600);
   delay(10);
 
-  connectWiFi();
+  connectWifi();
   statusWifi();
 
   // Notify the MQTT broker when ESP8266 loses connection
