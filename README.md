@@ -19,4 +19,4 @@ Centrifugal pump and RGB LED strip control based on this concept
 
 ## Schematic
 
-![Schematic] (img/schematic.png)
+![Schematic](img/schematic.png)
