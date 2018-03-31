@@ -17,5 +17,6 @@ ESP8266 ESP-01 connects to a WiFi AP, and handles the MQTT communication. After 
 Centrifugal pump and RGB LED strip control based on this concept
 ![Demo](img/demo.gif)
 
-## ToDoList
-- Add fritzing schematic
+## Schematic
+
+![Schematic] (img/schematic.png)
